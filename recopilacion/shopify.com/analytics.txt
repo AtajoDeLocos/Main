@@ -1,2 +1,0 @@
-[+] Analyzing url: https://www.shopify.com
-[-] Tagmanager URL not fount

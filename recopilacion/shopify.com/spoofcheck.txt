@@ -1,9 +1,0 @@
-[*] Found SPF record:
-[*] v=spf1 include:_spf.google.com include:mail.zendesk.com include:mailgun.org include:sendgrid.net ip4:23.227.61.129 ip4:23.227.61.130 ~all
-[*] SPF record contains an All item: ~all
-[*] Found DMARC record:
-[*] v=DMARC1; p=reject; pct=100; fo=1; rua=mailto:dmarc-aggregate@shopify.com;ruf=mailto:dmarc-reports@shopify.com
-[-] DMARC policy set to reject
-[*] Aggregate reports will be sent: mailto:dmarc-aggregate@shopify.com
-[*] Forensics reports will be sent: mailto:dmarc-reports@shopify.com
-[-] Spoofing not possible for shopify.com
